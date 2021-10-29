@@ -1,1 +1,1 @@
-## This is a lock diary application created with React.
+### Lock diary MERN application.

@@ -1,5 +1,5 @@
 {
-  "name": "lock-diary",
+  "name": "lock-diary-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
